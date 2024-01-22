@@ -9,7 +9,7 @@ The 32-WellThermogeneticsBox_BehaviorChambers files contain schematics and laser
 The 32-WellThermogeneticsBox_BehaviorChambers files contain schematics and laser cutter settings for producing a platform on which we sit the 32-well plate with water reservior.
 
 ## Parts List
-See the excel sheet for easy copy and paste to McMaster-Carr's order form.
+*See the excel sheet for easy copy and paste to McMaster-Carr's order form.*
 
 1x 1/6" Clear Acrylic: McMaster-Carr #8589K12
 
