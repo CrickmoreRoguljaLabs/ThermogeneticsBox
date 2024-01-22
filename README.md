@@ -9,7 +9,7 @@ The 32-WellThermogeneticsBox_BehaviorChambers files contain schematics and laser
 The 32-WellThermogeneticsBox_BehaviorChambers files contain schematics and laser cutter settings for producing a platform on which we sit the 32-well plate with water reservior.
 
 ## Parts List
-*See the excel sheet for easy copy and paste to McMaster-Carr's order form.*
+*See the excel sheet for easy copy and paste to McMaster-Carr's order form and for notes.*
 
 1x 1/6" Clear Acrylic: McMaster-Carr #8589K12
 
@@ -39,7 +39,7 @@ Loctite 587 Gasket Maker Sealant: McMaster-Carr #7660A21
 
 1x Water Bath, such as PolyScience WB05A11B Digital General Purpose Water Bath, 5 L Capacity, 120V/60 Hz: Amazon https://www.amazon.com/PolyScience-WB05A11B-Digital-General-Capacity/dp/B00N5ILOK4
 
-You will also need access to a threader, scissors, and tape.
+You will need access to a threader, scissors, and tape. You will also need access to a tool (such as a thermocouple thermometer) that can measure the temperature in the wells.
 
 ## Assembly
 
@@ -54,10 +54,24 @@ You will also need access to a threader, scissors, and tape.
 8. Flip the whole plate over so that the bottom is facing up. Then screw in the threaded connector (McMaster-Carr #5463K53) so that the barbed portion that will connect to tubing is pointing out. Put a little liquid gasket around the connection to seal it.
 9. Let the whole thing dry for at least 30 mins.
 
+![BehaviorChamberPicture](https://github.com/laurenminer/ThermogeneticsBox/assets/56128045/ae9d3686-9eee-42ea-82ed-e3622e6ed8d7)
+
+
 ### Platform Assembly
 1. Cut all the platform acyrlic pieces according to the specifications in the schematic files. You can discard the 2 small square-ish cutouts from the longest sides (but keep track of which sides are which).
 2. Attach the sides to the bottom and secure with tape. The long sides should be positioned so that the jigsaw end is flush with the shorter side and the smooth end starts a gap before the next short side. You want the gap after the smooth edge to be in different places so that you can not see though the whole side like so:
    
 ![Screenshot 2024-01-22 at 5 34 45 PM](https://github.com/laurenminer/ThermogeneticsBox/assets/56128045/11b99b23-9a01-4206-91d7-cb4ffcb86385)
+
 3. Attach the top and secure with tape.
 
+### Connecting to a Water Source
+1. Cut two 8" pieces of small tubing. Attach the each piece of tubing to one of the connector protruding from the bottom of the behavior chamber.
+2. Sit the behavior chamber on top of the platform and position the tubing so that each piece of tubing comes out a different gap in the side.
+3. Position the water bath next to the platform.
+4. Connect the small tubing to the medium tubing with connectors - cut the length of the medium tubing so that it can reach the water bath.
+5. Pick one tube to be the output, tape that one to the side of the water bath so water flowing from that tube will be deposited in the bath.
+6. The other tube is the input, connect that tube to a ~4" piece of high pressure large tubing using a connector.
+7. Connect the high pressure tubing to the pump, using an adaptor that came with the pump, and place the pump in the water bath.
+8. Fill the water bath, and turn on the pump. You may need to temporarily raise the side of the behavior chamber plate with the output tubing to encourage the air pocket to be pushed out.
+9. We use a 30 degree water bath to achieve a 28.5 degree well temperature (measured with a thermocouple pressed against the well floor) because the water will cool slightly once it leaves the bath. You will need to confirm the temperature in your well and set the bath accordingly.
