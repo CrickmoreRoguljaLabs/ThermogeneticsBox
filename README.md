@@ -39,6 +39,20 @@ Loctite 587 Gasket Maker Sealant: McMaster-Carr #7660A21
 
 1x Water Bath, such as PolyScience WB05A11B Digital General Purpose Water Bath, 5 L Capacity, 120V/60 Hz: Amazon https://www.amazon.com/PolyScience-WB05A11B-Digital-General-Capacity/dp/B00N5ILOK4
 
-## 32-Well Plate with Water Reservior Assembly
+You will also need access to a threader and scissors.
+
+## Assembly
+
+### 32-Well Plate with Water Reservior Assembly
+1. Cut all the behavior chamber acyrlic pieces according to the specifications in the schematic files. You can discard the ellipsoid shaped insert from the water reservior layer, but keep the smaller donut shaped center piece.
+2. Thread the two holes that were not rastered in a hexagon shape so that the 10-32 thread male connecter can be screwed into place.  
+3. Insert all the screws so that the hexagonal head sits in the rastered inset on the bottom. Flip the acrylic over (you may want to put something against the screw heads or tape them in place so they stay put). You should end up with the acrylic laying flush or almost flush to the top of your workspace and all the screws sticking out pointing upwards.
+4. Stack the water reservior layer on the bottom, making sure all the screws go through the appropriate holes. Put the donut shaped center piece on the center screw.
+5. Affix the cut well bottoms/diffuser paper layer to the water reservior layer by coating all the remaining water reservior pieces (the rectangle with the elipsoid shape removed and the small donut center piece) with liquid gasket and pressing the diffuser paper down. Smooth it out so there are no gaps.
+6. Stack the well layer, then the door holder layer with the doors, then the top layer on the well bottom/diffuser paper layer.
+7. Use thumb nuts on all screws to secure all the layers in place.
+8. Flip the whole plate over so that the bottom is facing up. Then screw in the threaded connector (McMaster-Carr #5463K53) so that the barbed portion that will connect to tubing is pointing out. Put a little liquid gasket around the connection to seal it.
+9. Let the whole thing dry for at least 30 mins.
 
 ## Platform Assembly
+
