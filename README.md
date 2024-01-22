@@ -39,7 +39,7 @@ Loctite 587 Gasket Maker Sealant: McMaster-Carr #7660A21
 
 1x Water Bath, such as PolyScience WB05A11B Digital General Purpose Water Bath, 5 L Capacity, 120V/60 Hz: Amazon https://www.amazon.com/PolyScience-WB05A11B-Digital-General-Capacity/dp/B00N5ILOK4
 
-You will also need access to a threader and scissors.
+You will also need access to a threader, scissors, and tape.
 
 ## Assembly
 
@@ -54,5 +54,10 @@ You will also need access to a threader and scissors.
 8. Flip the whole plate over so that the bottom is facing up. Then screw in the threaded connector (McMaster-Carr #5463K53) so that the barbed portion that will connect to tubing is pointing out. Put a little liquid gasket around the connection to seal it.
 9. Let the whole thing dry for at least 30 mins.
 
-## Platform Assembly
+### Platform Assembly
+1. Cut all the platform acyrlic pieces according to the specifications in the schematic files. You can discard the 2 small square-ish cutouts from the longest sides (but keep track of which sides are which).
+2. Attach the sides to the bottom and secure with tape. The long sides should be positioned so that the jigsaw end is flush with the shorter side and the smooth end starts a gap before the next short side. You want the gap after the smooth edge to be in different places so that you can not see though the whole side like so:
+   
+![Screenshot 2024-01-22 at 5 34 45 PM](https://github.com/laurenminer/ThermogeneticsBox/assets/56128045/11b99b23-9a01-4206-91d7-cb4ffcb86385)
+3. Attach the top and secure with tape.
 
