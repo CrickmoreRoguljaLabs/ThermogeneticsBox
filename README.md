@@ -8,6 +8,8 @@ The 32-WellThermogeneticsBox_BehaviorChambers files contain schematics and laser
 
 The 32-WellThermogeneticsBox_BehaviorChambers files contain schematics and laser cutter settings for producing a platform on which we sit the 32-well plate with water reservior.
 
+A commercially available camera can be placed above the apparatus to record behavior.
+
 ## Parts List
 *See the excel sheet for easy copy and paste to McMaster-Carr's order form and for notes.*
 
